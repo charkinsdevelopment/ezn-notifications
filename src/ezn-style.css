@@ -1,0 +1,6 @@
+.ezn {border:1px solid; max-width:450px; padding:15px; border-top-left-radius:6px; border-bottom-left-radius:6px; background:#d6d6d6; color:#000; font-family:arial; position:fixed; right:-490px; width:100%;
+transition:all .5s ease; font-size:12px;
+}
+.ezn.active {transition:all .5s ease; right:0;}
+
+.ezn .ezn-title{font-weight:bold;}
