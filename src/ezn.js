@@ -41,10 +41,10 @@ function showNotifications(type, show, title, message, timeout){
     } 
   };
 
-
-document.addEventListener("DOMContentLoaded", function() {
-  showNotifications('success', true, 'Success', 'Added a thing', 3000); 
-});
+//usage example
+//document.addEventListener("DOMContentLoaded", function() {
+  //showNotifications('success', true, 'Success', 'Added a thing', 3000); 
+//});
 
 
 
